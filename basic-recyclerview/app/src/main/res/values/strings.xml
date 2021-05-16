@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basic Recyclerview</string>
+    <string name="text_heroes_name">Nama Pahlawan</string>
+    <string name="text_heroes_detail">Detail</string>
+    <string name="text_menu_list">List</string>
+    <string name="text_menu_grid">Grid</string>
+    <string name="text_menu_with_cardview">With CardView</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_share">Share</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Yukitamasak</string>
+    <string name="app_name_splash">Yukitamasak App</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_share">Share</string>
+    <string name="text_menu_card">Card</string>
+    <string name="text_menu_list">List</string>
+    <string name="text_menu_grid">Grid</string>
+    <string name="text_menu_about">About</string>
+    <string name="text_ingredients">Ingredients</string>
+    <string name="text_steps">Steps</string>
+    <string name="text_read_more">Read More</string>
+    <string name="text_read_less">Read Less</string>
+    <string name="text_about_name">Indra Muliana</string>
+    <string name="text_about_email">indra.ndra26@gmail.com</string>
+    <string name="text_about_repo">https://github.com/indra-yana</string>
+    <string name="text_about_phone">+6289 969 57566</string>
+    <string name="text_about_address">Male | Bandung, West Java</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_version">Versi 1.0</string>
+</resources>

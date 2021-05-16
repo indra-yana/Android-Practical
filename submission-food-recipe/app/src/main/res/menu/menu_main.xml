@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_act_about"
+        android:icon="@drawable/ic_menu_about"
+        android:title="@string/text_menu_about"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_act_cardview"
+        android:icon="@drawable/ic_mode_card"
+        android:title="@string/text_menu_card"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_act_list"
+        android:icon="@drawable/ic_mode_list"
+        android:title="@string/text_menu_list"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_act_grid"
+        android:icon="@drawable/ic_mode_grid"
+        android:title="@string/text_menu_grid"
+        app:showAsAction="never" />
+
+</menu>
