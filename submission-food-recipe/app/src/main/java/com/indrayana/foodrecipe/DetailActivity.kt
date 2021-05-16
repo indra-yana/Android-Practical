@@ -55,11 +55,11 @@ class DetailActivity : AppCompatActivity() {
 
             tvStep.text = step.joinToString(separator = "\n")
 
-            btnShare.setOnClickListener {
+            btnFavourite.setOnClickListener {
                 Toast.makeText(this@DetailActivity, "$title Added to favourite!", Toast.LENGTH_SHORT).show()
             }
 
-            btnFavourite.setOnClickListener {
+            btnShare.setOnClickListener {
                 Toast.makeText(this@DetailActivity, "$title Shared to social media!", Toast.LENGTH_SHORT).show()
             }
 
