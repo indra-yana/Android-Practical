@@ -64,7 +64,7 @@
             android:layout_height="@dimen/_80sdp"
             android:layout_margin="@dimen/_6sdp"
             android:tint="@color/colorTextSecondary"
-            app:civ_border_color="@color/colorTextPrimary"
+            app:civ_border_color="@color/colorAccentDark"
             app:civ_border_width="@dimen/_2sdp"
             tools:src="@tools:sample/avatars" />
 

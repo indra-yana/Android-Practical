@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity() {
             val view: View = LayoutInflater.from(this).inflate(R.layout.layout_about_bottom_sheet, findViewById<LinearLayout>(R.id.layout_about_container), true) //View.inflate(this, R.layout.layout_about_bottom_sheet, findViewById(R.id.layout_about_container))
             with(view) {
                 (findViewById<Button>(R.id.btn_close)).setOnClickListener { bottomSheetDialog?.dismiss() }
-                (findViewById<ImageView>(R.id.iv_about_photo)).setImageDrawable( getDrawable( R.drawable.ic_user_smile) )
+                (findViewById<ImageView>(R.id.iv_about_photo)).setImageDrawable( getDrawable( R.drawable.profile_photo) )
                 minimumHeight = Resources.getSystem().displayMetrics.heightPixels
             }
 
